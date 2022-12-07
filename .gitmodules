@@ -1,0 +1,24 @@
+[submodule "1-Getting-Started-With-App-Development-Presentation"]
+	path = 1-Getting-Started-With-App-Development-Presentation
+	url = git@github.com:c4arl0s/1-Getting-Started-With-App-Development-Presentation.git
+[submodule "ConstantsVariablesAndDataTypes"]
+	path = ConstantsVariablesAndDataTypes
+	url = git@github.com:c4arl0s/ConstantsVariablesAndDataTypes.git
+[submodule "Operators"]
+	path = Operators
+	url = git@github.com:c4arl0s/Operators.git
+[submodule "ControlFlow"]
+	path = ControlFlow
+	url = git@github.com:c4arl0s/ControlFlow.git
+[submodule "Xcode"]
+	path = Xcode
+	url = git@github.com:c4arl0s/Xcode.git
+[submodule "Documentation"]
+	path = Documentation
+	url = git@github.com:c4arl0s/Documentation.git
+[submodule "InterfaceBuilderBasics"]
+	path = InterfaceBuilderBasics
+	url = git@github.com:c4arl0s/InterfaceBuilderBasics.git
+[submodule "GuidedProjectLight"]
+	path = GuidedProjectLight
+	url = git@github.com:c4arl0s/GuidedProjectLight.git
